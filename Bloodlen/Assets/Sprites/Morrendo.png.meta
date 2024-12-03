@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: c944b773a50b2d143934de83d7ad9656
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6298846817942774336
+    second: Morrendo_0
+  - first:
+      213: 8162057842912171100
+    second: Morrendo_1
+  - first:
+      213: -4592153709436751475
+    second: Morrendo_2
+  - first:
+      213: -6801237959006028677
+    second: Morrendo_3
+  - first:
+      213: -8170846477258708713
+    second: Morrendo_4
+  - first:
+      213: 7439921333602335519
+    second: Morrendo_5
+  - first:
+      213: 5560978225797797477
+    second: Morrendo_6
+  - first:
+      213: 5692409858865653517
+    second: Morrendo_7
+  - first:
+      213: -746168894871884067
+    second: Morrendo_8
+  - first:
+      213: 2595989401569225149
+    second: Morrendo_9
+  - first:
+      213: 3893481947898088836
+    second: Morrendo_10
+  - first:
+      213: 5136666698343348762
+    second: Morrendo_11
+  - first:
+      213: 3025078533774118851
+    second: Morrendo_12
+  - first:
+      213: 6658505759768882481
+    second: Morrendo_13
+  - first:
+      213: -6798789575712320911
+    second: Morrendo_14
+  - first:
+      213: -3196896194769063142
+    second: Morrendo_15
+  - first:
+      213: 4689214919217543530
+    second: Morrendo_16
+  - first:
+      213: 32384179287956964
+    second: Morrendo_17
+  - first:
+      213: 7525170176393921299
+    second: Morrendo_18
+  - first:
+      213: 8273571670143125557
+    second: Morrendo_19
+  - first:
+      213: -4660896725607014664
+    second: Morrendo_20
+  - first:
+      213: -875659168142685098
+    second: Morrendo_21
+  - first:
+      213: -1679322485452485068
+    second: Morrendo_22
+  - first:
+      213: 522446714360037232
+    second: Morrendo_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Morrendo_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 335
+        width: 35
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0422416eecff96750800000000000000
+      internalID: 6298846817942774336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 335
+        width: 35
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5498fa1d54754170800000000000000
+      internalID: 8162057842912171100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 335
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81b70318846540c0800000000000000
+      internalID: -4592153709436751475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 334
+        width: 40
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cfa8c5c162d91a0800000000000000
+      internalID: -6801237959006028677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 334
+        width: 43
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7192eb08b625b9e80800000000000000
+      internalID: -8170846477258708713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 254
+        width: 47
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bb736d809ef3760800000000000000
+      internalID: 7439921333602335519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 254
+        width: 46
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5661c58ab309c2d40800000000000000
+      internalID: 5560978225797797477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 254
+        width: 49
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d076e916b908ffe40800000000000000
+      internalID: 5692409858865653517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 254
+        width: 50
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde27bee75315a5f0800000000000000
+      internalID: -746168894871884067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_9
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 254
+        width: 52
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db966394b9ec60420800000000000000
+      internalID: 2595989401569225149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 174
+        width: 54
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d8cdbf33d680630800000000000000
+      internalID: 3893481947898088836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 173
+        width: 58
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a755c952b194740800000000000000
+      internalID: 5136666698343348762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 174
+        width: 56
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf044f16ec3bf920800000000000000
+      internalID: 3025078533774118851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 174
+        width: 63
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13daae1d5b3c76c50800000000000000
+      internalID: 6658505759768882481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 174
+        width: 65
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172d90507e8d5a1a0800000000000000
+      internalID: -6798789575712320911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 66
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13fdf649d752a3d0800000000000000
+      internalID: -3196896194769063142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 94
+        width: 65
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a697c6fdf10731140800000000000000
+      internalID: 4689214919217543530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 94
+        width: 64
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313c256c766ce6860800000000000000
+      internalID: 7525170176393921299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_19
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 94
+        width: 64
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538cd964991a1d270800000000000000
+      internalID: 8273571670143125557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_20
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 94
+        width: 62
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe996f5f1b215fb0800000000000000
+      internalID: -4660896725607014664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 14
+        width: 66
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c8a8240a809d3f0800000000000000
+      internalID: -875659168142685098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 14
+        width: 67
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e474fc819d1b8e0800000000000000
+      internalID: -1679322485452485068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 14
+        width: 68
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fff77c48a104700800000000000000
+      internalID: 522446714360037232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morrendo_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 132
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763e61ee62737ab46beae0e5653ed04a
+      internalID: 32384179287956964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c0f325e47d45f2b45a98de3f20472db9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Morrendo_0: 6298846817942774336
+      Morrendo_1: 8162057842912171100
+      Morrendo_10: 3893481947898088836
+      Morrendo_11: 5136666698343348762
+      Morrendo_12: 3025078533774118851
+      Morrendo_13: 6658505759768882481
+      Morrendo_14: -6798789575712320911
+      Morrendo_15: -3196896194769063142
+      Morrendo_16: 4689214919217543530
+      Morrendo_17: 32384179287956964
+      Morrendo_18: 7525170176393921299
+      Morrendo_19: 8273571670143125557
+      Morrendo_2: -4592153709436751475
+      Morrendo_20: -4660896725607014664
+      Morrendo_21: -875659168142685098
+      Morrendo_22: -1679322485452485068
+      Morrendo_23: 522446714360037232
+      Morrendo_3: -6801237959006028677
+      Morrendo_4: -8170846477258708713
+      Morrendo_5: 7439921333602335519
+      Morrendo_6: 5560978225797797477
+      Morrendo_7: 5692409858865653517
+      Morrendo_8: -746168894871884067
+      Morrendo_9: 2595989401569225149
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

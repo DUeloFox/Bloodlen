@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: 3763f6deb44837f4e975833ff8559442
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1782118860897382086
+    second: npc 1 talk_0
+  - first:
+      213: -8587456982500424258
+    second: npc 1 talk_1
+  - first:
+      213: -6605166425888530769
+    second: npc 1 talk_2
+  - first:
+      213: -5687266537193520619
+    second: npc 1 talk_3
+  - first:
+      213: 7070063380833390805
+    second: npc 1 talk_4
+  - first:
+      213: -1598270805884706601
+    second: npc 1 talk_5
+  - first:
+      213: 8464297804266970126
+    second: npc 1 talk_6
+  - first:
+      213: -7555665153604681520
+    second: npc 1 talk_7
+  - first:
+      213: -7768776849606861690
+    second: npc 1 talk_8
+  - first:
+      213: 5146356997191768153
+    second: npc 1 talk_9
+  - first:
+      213: 2099029372299980178
+    second: npc 1 talk_10
+  - first:
+      213: 5852763399561260143
+    second: npc 1 talk_11
+  - first:
+      213: 7696272747460878607
+    second: npc 1 talk_12
+  - first:
+      213: -3217241851264632437
+    second: npc 1 talk_13
+  - first:
+      213: -763496139961551083
+    second: npc 1 talk_14
+  - first:
+      213: -6367047623212580376
+    second: npc 1 talk_15
+  - first:
+      213: 4436963153922683367
+    second: npc 1 talk_16
+  - first:
+      213: 1640218280849982366
+    second: npc 1 talk_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc 1 talk_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 333
+        width: 29
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ceef4379ab5bb810800000000000000
+      internalID: 1782118860897382086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc 1 talk_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 333
+        width: 29
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb54d1a6f5933d880800000000000000
+      internalID: -8587456982500424258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc 1 talk_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 333
+        width: 29
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faed39e912cb554a0800000000000000
+      internalID: -6605166425888530769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc 1 talk_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 333
+        width: 29
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5124d938735c211b0800000000000000
+      internalID: -5687266537193520619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc 1 talk_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 253
+        width: 29
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d05212af29ed1260800000000000000
+      internalID: 7070063380833390805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc 1 talk_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 253
+        width: 29
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d06d588b2dc1d9e0800000000000000
+      internalID: -1598270805884706601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc 1 talk_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 253
+        width: 29
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c9378d10a377570800000000000000
+      internalID: 8464297804266970126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc 1 talk_7
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 253
+        width: 29
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0889d0392e42790800000000000000
+      internalID: -7555665153604681520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc 1 talk_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 173
+        width: 29
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c97e3bd92cf2490800000000000000
+      internalID: -7768776849606861690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc 1 talk_9
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 173
+        width: 29
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95816f02c688b6740800000000000000
+      internalID: 5146356997191768153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc 1 talk_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 173
+        width: 29
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d2d0dc710412d10800000000000000
+      internalID: 2099029372299980178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc 1 talk_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 173
+        width: 29
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ca1497d41393150800000000000000
+      internalID: 5852763399561260143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc 1 talk_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 93
+        width: 29
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01ece68947aeca60800000000000000
+      internalID: 7696272747460878607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc 1 talk_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 93
+        width: 29
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89f9daf49f0a53d0800000000000000
+      internalID: -3217241851264632437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc 1 talk_14
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 93
+        width: 29
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517b53e4e448765f0800000000000000
+      internalID: -763496139961551083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc 1 talk_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 93
+        width: 29
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e14b66bbe3b3a7a0800000000000000
+      internalID: -6367047623212580376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc 1 talk_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 13
+        width: 29
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1fe0ffa72439d30800000000000000
+      internalID: 4436963153922683367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc 1 talk_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 13
+        width: 29
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e934a2016d933c610800000000000000
+      internalID: 1640218280849982366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2839faf27c2b629428292981f98f0312
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      npc 1 talk_0: 1782118860897382086
+      npc 1 talk_1: -8587456982500424258
+      npc 1 talk_10: 2099029372299980178
+      npc 1 talk_11: 5852763399561260143
+      npc 1 talk_12: 7696272747460878607
+      npc 1 talk_13: -3217241851264632437
+      npc 1 talk_14: -763496139961551083
+      npc 1 talk_15: -6367047623212580376
+      npc 1 talk_16: 4436963153922683367
+      npc 1 talk_17: 1640218280849982366
+      npc 1 talk_2: -6605166425888530769
+      npc 1 talk_3: -5687266537193520619
+      npc 1 talk_4: 7070063380833390805
+      npc 1 talk_5: -1598270805884706601
+      npc 1 talk_6: 8464297804266970126
+      npc 1 talk_7: -7555665153604681520
+      npc 1 talk_8: -7768776849606861690
+      npc 1 talk_9: 5146356997191768153
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
